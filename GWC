@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="height: 650px; background: linear-gradient(to bottom, #ffd4d4 0%, #fff7ab 100%)">
+
+<h1><center>Concord Girls Who Code!<center></h1>
+<h3><center>Right Now Only 1% Of Women Take Coding Jobs. 
+Join Girls Who Code To Change That. All Girls Can Code! - Concord Girls Who Code<center><h3>
+
+<div class="imgcontside" style="height:300px;">
+      <img class="img" style="height:100%;" src="https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2020/02/26143301/Screen-Shot-2020-02-26-at-2.30.47-PM.jpg">
+ 
+</body>
+</html>
