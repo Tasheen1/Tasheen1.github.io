@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Tasheen Kashem</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body and change the font*/
+body {
+  font-family: 'Garamond', sans-serif;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Garamond', cursive;
+}
+
+h2,h3{
+  font-family: 'Garamond', cursive;
+}
+
+/* Header/logo Title and change the color*/
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #FFDDAF;
+  color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar and change the color */
+.navbar {
+  overflow: hidden;
+  background-color: #C8FFAF;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+
+/* Column container */
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other and change color*/
+/* Sidebar/left column */
+.side {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background-color: #FFD2D2;
+  padding: 20px;
+  color: white;
+  text-align:center;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: #FFD2D2;
+  padding: 20px;
+}
+
+/* Image Container */
+.imgcontmain {
+  background-color: #FFD2D2;
+  width: 100%;
+  padding: 20px;
+}
+
+.imgcontside{
+  width: 100%;
+}
+
+/* Image Formatting */
+.img{
+  display:block;
+  margin:auto;
+}
+
+.boxleft {
+  width: 400px;
+  border: 8px solid #AFFFFD;
+  padding: 10px;
+  margin: 20px;
+  float: left;
+}
+.boxright {
+  width: 400px;
+  border: 8px solid #AFFFFD;
+  padding: 10px;
+  margin: 20px;
+  float: right;
+}
+
+/* Footer */
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #333;
+  color: white;
+}
+
+</style>
+</head>
+ <body>
+   
+  
+  
+<div class="header">
+  <center><h1>Tasheen Kashem</h1></center>
+<center>  <p>
+    </p> <center>
+
+   
+<div class="navbar">
+<h1> Girls Who Code Concord </h1>
+</div>
+
+   
+<div class="row">
+  
+
+  <div class="side">
+    
+    <h2>About Me</h2>
+    <div class="imgcontside" style="height:300px;">
+      <img class="img" style="height:100%;" src="https://lh3.googleusercontent.com/MLylSfHdr4uFs_dPnaxTwI8H0YOSQuzYlFiXCFJpuJ4iZF5O5qKz6Af8nd-8tslojSj9-cUT2q0n71iRJe-wvq46TN9qGTqN6KcN3S9QWzXvLIHdlu5vRVxJesDN78sDCKnF5e_Fyp8mh64kI4uEdX6kQm-ASogjhxor4yWrL0IFg44sJF6whd4qwL6c3KtxgKWyk2aiGLn_eVShNrgmFkhhhgRASGFTvQwcE0LvmqNGk9WLNdk6-DyrPK3hJ2SqpQa95B3i5KutOkTRh_7RkLWcKFnMWt3M-KVW9X_0b0aGoE5eqTuc9YLbRdrETnmK4PUwIzhESBlzagZ7Dbge9leJ8Y3BwqqVKk4qbAJzMpPdsyKi_DMLYe1pkNS8Phvd1hsjHap8jA9PvC5g2x1zOB5CFbNiPZaUoRk8EensDGlwtkqfY0chRfz098WwsU26Y6bZvoTItUZb2CAvivW3HLBE4PmIEZ-3ES73TExtc4rsmpYbrB3ORZswl6-ANX2mwT7HNHa5IRzq16wWTl2ajx18n-xACD9zz9fIqp_ZDKNetWxTMJkyn_1vIviFsQCgry0iOJlziiI5yJbZHiFU9vkcpVBqaCqDG-6BN-tDIOm-19Ja5KU5AFVbHMSd0XialBKfhpqYs9i7oGeHaTs8smIY2jl8zvyWvOfQkNAdk7r1vvqKtb4W5uu07kLvD_OKZPEWZdEbDIEVtz7TU0VLbMLMNA=w2191-h1643-no?authuser=0" alt="A picture of Tasheen!">
+    </div>
+    
+    <h3>My name is Tasheen Kashem. I go to Maria Hastings Elementary, in Lexington MA. I live on Harbell Street, with my Mother, and Father(Sadly no pet!). I'm 10 years old right now, and in 5th grade.This is currently my 2nd year at GWC. <h3>
+     <p></p>
+    
+    <h3>
+      My Hobbies
+    </h3>
+      <h3>I like making informational slides, or just slides to decorate!<h3>
+        <h3>(Horrible)Baking, and painting are a #1 big pastime for me!  <h3>
+        <h3>This is weird, but I like cleaning! The end result is cool!<h3>
+    <h3>
+    Programming Languages I Know!</h3>
+    <p>
+     <h3>Scratch(It is simple to make, and really fun to watch!)<h3>
+     <h3>Python(If you count 1/1000000 of it!)<h3>
+     <h3>HTML(This is made with HTML!)<h3>
+    
+    
+     
+    </p>
+   
+  </div>
+  
+    <div class="main">
+     <div>
+       <div class="boxleft">
+       <h2> Fun Facts</h2>
+      <ul>
+        <li><h4>When I was 2, I traveled from Aisa to America!<h4></li>
+        <li><h4>I am an aunt of 2 newborn kids(believe it or not)!<h4></li>
+        <li><h4>I was supposed to be born on May 1st, but wasn't! <h4></li>
+      </ul>
+       
+       </div>
+       <div class="boxright">
+       <h2>
+        Things I Like
+      </h2>
+      <ul>
+        <li><h4>I am picky about food, but still love (Ramen) it!<h4></li>
+        <li><h4>I get a lot of creative building kits, which I love!<h4></li>
+         <li><h4>PETS! I am craving a pet, but: Pet in, Mom out!<h4></li>
+      </ul>
+       <br>
+       </div>
+       <div class="boxleft">
+      <h2>
+        Song Reccomendations
+      </h2>
+      <ul>
+        <li><h4>Bright From Julie And The Phantoms!<h4></li>
+        <li><h4>Thank You Next By Ariana Grande!<h4></li>
+        <li><h4>Tears Of Gold By Faouzia Ouihya!<h4></li>
+      </ul>
+       </div>
+  </div>
+  </div>
+  </body>
+</html>
